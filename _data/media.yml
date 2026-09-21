@@ -1,0 +1,35 @@
+- id: SM-HERO-01
+  src: /assets/photography/hero.png
+  focal:
+    desktop: 70% 48%
+    mobile: 68% 42%
+- id: SM-SVC-01
+  src: /assets/photography/make-readies.png
+  focal:
+    desktop: 52% 48%
+    mobile: 52% 43%
+- id: SM-SVC-02
+  src: /assets/photography/maintenance.png
+  focal:
+    desktop: 62% 48%
+    mobile: 62% 42%
+- id: SM-SVC-03
+  src: /assets/photography/repairs.png
+  focal:
+    desktop: 52% 48%
+    mobile: 52% 42%
+- id: SM-SVC-04
+  src: /assets/photography/recurring.png
+  focal:
+    desktop: 58% 50%
+    mobile: 58% 44%
+- id: SM-PROP-01
+  src: /assets/photography/property.png
+  focal:
+    desktop: 58% 48%
+    mobile: 58% 43%
+- id: SM-ROB-01
+  src: /assets/photography/robert.png
+  focal:
+    desktop: 54% 48%
+    mobile: 54% 40%

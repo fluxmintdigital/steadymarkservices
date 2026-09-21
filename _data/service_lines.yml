@@ -2,6 +2,7 @@
   name: Make-Readies & Turns
   route: /services/make-readies-turns/
   image: /assets/photography/make-readies.png
+  asset_id: SM-SVC-01
   eyebrow: Before a property is ready again
   question: What needs to happen before this property is ready again?
   recognition: Vacant units, turnovers, and property transitions where several ordinary conditions need to move toward a defined ready state.
@@ -12,6 +13,7 @@
   name: Maintenance & Property Support
   route: /services/maintenance-property-support/
   image: /assets/photography/maintenance.png
+  asset_id: SM-SVC-02
   eyebrow: Keep the property attended to
   question: What needs attention to keep this property functioning well?
   recognition: Routine maintenance visits, smaller corrections, and practical property needs that are easier to handle with organized follow-through.
@@ -22,6 +24,7 @@
   name: Repairs & Punch Work
   route: /services/repairs-punch-work/
   image: /assets/photography/repairs.png
+  asset_id: SM-SVC-03
   eyebrow: Make a defined scope understandable
   question: What defined corrections need to be completed?
   recognition: A single repair or a list of smaller items that need to be described, coordinated, and closed out as one understandable request.
@@ -32,6 +35,7 @@
   name: Recurring & Contract Support
   route: /services/recurring-contract-support/
   image: /assets/photography/recurring.png
+  asset_id: SM-SVC-04
   eyebrow: Build a continuing working relationship
   question: What repeated property needs would benefit from one continuing relationship?
   recognition: Repeated property needs across one or more locations where continuity and clear scope matter more than a one-off visit.
