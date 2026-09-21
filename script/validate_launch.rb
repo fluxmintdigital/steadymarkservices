@@ -17,6 +17,7 @@ routes = YAML.safe_load(File.read(File.join(ROOT, "_data/route_registry.yml")), 
 services = YAML.safe_load(File.read(File.join(ROOT, "_data/service_lines.yml")), permitted_classes: [], aliases: false)
 scopes = YAML.safe_load(File.read(File.join(ROOT, "_data/scopes.yml")), permitted_classes: [], aliases: false)
 media = YAML.safe_load(File.read(File.join(ROOT, "_data/media.yml")), permitted_classes: [], aliases: false)
+placements = YAML.safe_load(File.read(File.join(ROOT, "_data/featured_placements.yml")), permitted_classes: [], aliases: false)
 
 %w[name domain canonical_url email phone_display phone_tel founder].each do |key|
   errors << "business missing #{key}" if business[key].nil? || business[key].to_s.empty?
@@ -35,6 +36,13 @@ errors << "duplicate service ids" unless service_ids.uniq.length == service_ids.
 scopes.each do |scope|
   errors << "scope #{scope["id"]} points at unknown service" unless service_ids.include?(scope["service"])
 end
+
+home_placement = placements.find { |placement| placement["id"] == "home-representative-scopes" }
+expected_home_scopes = %w[vacant-unit-turn multi-item-punch-scope recurring-multi-property-support]
+actual_home_scopes = home_placement ? home_placement.fetch("slots").sort_by { |slot| slot.fetch("order") }.map { |slot| slot.fetch("scope") } : []
+errors << "Home FeaturedPlacement missing" unless home_placement
+errors << "Home FeaturedPlacement does not match approved scope subset" unless actual_home_scopes == expected_home_scopes
+errors << "Home FeaturedPlacement references unknown scope" unless actual_home_scopes.all? { |id| scopes.any? { |scope| scope["id"] == id } }
 
 required_media = %w[SM-HERO-01 SM-SVC-01 SM-SVC-02 SM-SVC-03 SM-SVC-04 SM-PROP-01 SM-ROB-01]
 media_ids = media.map { |asset| asset.fetch("id") }

@@ -1,0 +1,10 @@
+- id: home-representative-scopes
+  page: home
+  kind: representative-scopes
+  slots:
+    - scope: vacant-unit-turn
+      order: 1
+    - scope: multi-item-punch-scope
+      order: 2
+    - scope: recurring-multi-property-support
+      order: 3
