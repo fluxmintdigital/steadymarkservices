@@ -1,0 +1,226 @@
+[
+  {
+    "id": "SM-ID-01",
+    "path": "assets/brand/masters/steadymark-wordmark-primary.svg",
+    "assetClass": "identity-master",
+    "provenance": "canonical-vector",
+    "evidenceState": "n/a",
+    "role": "primary-wordmark",
+    "status": "approved",
+    "replacementPriority": "none"
+  },
+  {
+    "id": "SM-ID-02",
+    "path": "assets/brand/masters/steadymark-wordmark-stacked.svg",
+    "assetClass": "identity-master",
+    "provenance": "canonical-vector",
+    "evidenceState": "n/a",
+    "role": "stacked-wordmark",
+    "status": "approved",
+    "replacementPriority": "none"
+  },
+  {
+    "id": "SM-ID-03",
+    "path": "assets/brand/masters/steadymark-registration-mark.svg",
+    "assetClass": "identity-master",
+    "provenance": "canonical-vector",
+    "evidenceState": "n/a",
+    "role": "registration-mark",
+    "status": "approved",
+    "replacementPriority": "none"
+  },
+  {
+    "id": "SM-ID-04",
+    "path": "assets/brand/masters/steadymark-wordmark-primary-graphite.svg",
+    "assetClass": "identity-master",
+    "provenance": "canonical-vector",
+    "evidenceState": "n/a",
+    "role": "graphite-monochrome",
+    "status": "approved",
+    "replacementPriority": "none"
+  },
+  {
+    "id": "SM-ID-05",
+    "path": "assets/brand/masters/steadymark-wordmark-primary-white.svg",
+    "assetClass": "identity-master",
+    "provenance": "canonical-vector",
+    "evidenceState": "n/a",
+    "role": "white-monochrome",
+    "status": "approved",
+    "replacementPriority": "none"
+  },
+  {
+    "id": "SM-ID-06",
+    "path": "assets/brand/delivery/favicons/",
+    "assetClass": "identity-delivery",
+    "provenance": "canonical-vector-derived",
+    "evidenceState": "n/a",
+    "role": "favicon-app-mark-family",
+    "status": "approved",
+    "replacementPriority": "none"
+  },
+  {
+    "id": "SM-HERO-01",
+    "path": "assets/photography/representative/hero/SM-HERO-01-home-hero-primary.png",
+    "alternatePath": "assets/photography/representative/hero/SM-HERO-01-home-hero-alternate.png",
+    "sourceOriginal": "wide_cinematic_high_resolution_exterior_scene_of.png",
+    "assetClass": "production-media",
+    "provenance": "synthetic-representative",
+    "evidenceState": "representative",
+    "role": "home-hero",
+    "status": "approved",
+    "replacementPriority": "medium",
+    "futureTarget": "high-quality real SteadyMark property-context photography"
+  },
+  {
+    "id": "SM-SVC-01",
+    "path": "assets/photography/representative/services/SM-SVC-01-make-readies-turns.png",
+    "sourceOriginal": "wide_realistic_interior_renovation_turnover_scene.png",
+    "assetClass": "production-media",
+    "provenance": "synthetic-representative",
+    "evidenceState": "representative",
+    "role": "make-readies-turns",
+    "status": "approved",
+    "replacementPriority": "high",
+    "futureTarget": "real documented make-ready environment"
+  },
+  {
+    "id": "SM-SVC-02",
+    "path": "assets/photography/representative/services/SM-SVC-02-maintenance-property-support.png",
+    "sourceOriginal": "a_realistic_high_resolution_close_up_interior_sh.png",
+    "assetClass": "production-media",
+    "provenance": "synthetic-representative",
+    "evidenceState": "representative",
+    "role": "maintenance-property-support",
+    "status": "approved",
+    "replacementPriority": "high",
+    "futureTarget": "real SteadyMark maintenance context"
+  },
+  {
+    "id": "SM-SVC-03",
+    "path": "assets/photography/representative/services/SM-SVC-03-repairs-punch-work.png",
+    "sourceOriginal": "a_crisp_realistic_close_up_daylight_toned_home.png",
+    "assetClass": "production-media",
+    "provenance": "synthetic-representative",
+    "evidenceState": "representative",
+    "role": "repairs-punch-work",
+    "status": "approved",
+    "replacementPriority": "high",
+    "futureTarget": "real SteadyMark punch/repair context"
+  },
+  {
+    "id": "SM-SVC-04",
+    "path": "assets/photography/representative/services/SM-SVC-04-recurring-contract-support.png",
+    "sourceOriginal": "wide_realistic_exterior_daytime_scene_of_a_modern.png",
+    "assetClass": "production-media",
+    "provenance": "synthetic-representative",
+    "evidenceState": "representative",
+    "role": "recurring-contract-support",
+    "status": "approved",
+    "replacementPriority": "high",
+    "futureTarget": "real recurring property-support context"
+  },
+  {
+    "id": "SM-PROP-01",
+    "path": "assets/photography/representative/property/SM-PROP-01-multi-property-context.png",
+    "sourceOriginal": "wide_cinematic_realistic_photo_of_a_modern_apart.png",
+    "assetClass": "production-media",
+    "provenance": "synthetic-representative",
+    "evidenceState": "representative",
+    "role": "multi-property-context",
+    "status": "approved",
+    "replacementPriority": "medium"
+  },
+  {
+    "id": "SM-MAT-01",
+    "path": "assets/photography/representative/materials/SM-MAT-01-doors-hardware.png",
+    "assetClass": "production-media",
+    "provenance": "synthetic-representative",
+    "evidenceState": "representative",
+    "role": "doors-hardware",
+    "status": "approved",
+    "replacementPriority": "medium"
+  },
+  {
+    "id": "SM-MAT-02",
+    "path": "assets/photography/representative/materials/SM-MAT-02-walls-trim-finish.png",
+    "assetClass": "production-media",
+    "provenance": "synthetic-representative",
+    "evidenceState": "representative",
+    "role": "walls-trim-finish",
+    "status": "approved",
+    "replacementPriority": "medium"
+  },
+  {
+    "id": "SM-MAT-03",
+    "path": "assets/photography/representative/materials/SM-MAT-03-cabinet-fixture-primary.png",
+    "alternatePath": "assets/photography/representative/materials/SM-MAT-03-cabinet-fixture-alternate.png",
+    "assetClass": "production-media",
+    "provenance": "synthetic-representative",
+    "evidenceState": "representative",
+    "role": "cabinet-fixture",
+    "status": "approved",
+    "replacementPriority": "medium"
+  },
+  {
+    "id": "SM-MAT-04",
+    "path": "assets/photography/representative/materials/SM-MAT-04-flooring-transition.png",
+    "assetClass": "production-media",
+    "provenance": "synthetic-representative",
+    "evidenceState": "representative",
+    "role": "flooring-transition",
+    "status": "approved",
+    "replacementPriority": "medium"
+  },
+  {
+    "id": "SM-MAT-05",
+    "path": "assets/photography/representative/materials/SM-MAT-05-working-materials.png",
+    "assetClass": "production-media",
+    "provenance": "synthetic-representative",
+    "evidenceState": "representative",
+    "role": "working-materials",
+    "status": "approved",
+    "replacementPriority": "medium"
+  },
+  {
+    "id": "SM-ROB-01",
+    "path": "assets/photography/representative/people/robert/approved-derivatives/SM-ROB-01-interior-working-wide.png",
+    "assetClass": "production-media",
+    "provenance": "reference-derived",
+    "evidenceState": "supported",
+    "role": "robert-working-context",
+    "status": "approved-candidate",
+    "replacementPriority": "high",
+    "futureTarget": "real high-quality SteadyMark working photo of Robert"
+  },
+  {
+    "id": "SM-ROB-02",
+    "path": "assets/photography/representative/people/robert/approved-derivatives/SM-ROB-02-interior-working-close.png",
+    "assetClass": "production-media",
+    "provenance": "reference-derived",
+    "evidenceState": "supported",
+    "role": "robert-working-context",
+    "status": "approved-candidate",
+    "replacementPriority": "high"
+  },
+  {
+    "id": "SM-ROB-03",
+    "path": "assets/photography/representative/people/robert/approved-derivatives/SM-ROB-03-exterior-working.png",
+    "assetClass": "production-media",
+    "provenance": "reference-derived",
+    "evidenceState": "supported",
+    "role": "robert-working-context",
+    "status": "approved-candidate",
+    "replacementPriority": "high"
+  },
+  {
+    "id": "SM-SOC-01",
+    "path": "assets/social/generated/",
+    "assetClass": "derived-production",
+    "provenance": "deterministic-derived",
+    "evidenceState": "n/a",
+    "role": "open-graph-social-card",
+    "status": "derive-in-build",
+    "replacementPriority": "n/a"
+  }
+]

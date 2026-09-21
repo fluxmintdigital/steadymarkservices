@@ -1,0 +1,8 @@
+---
+---
+{% assign service = site.data.service_lines | where: 'id', page.service_id | first %}
+<section class="page-hero"><div class="wrap narrow"><div class="breadcrumbs"><a href="{{ '/' | relative_url }}">Home</a><span>→</span><a href="{{ '/services/' | relative_url }}">Services</a><span>→</span><span>{{ service.name }}</span></div><span class="eyebrow">{{ service.eyebrow }}</span><h1>{{ service.name }}</h1><p class="lede">{{ service.question }}</p></div></section>
+<section class="section"><div class="wrap split service-detail"><div class="service-detail-image"><img src="{{ service.image | relative_url }}" alt="{{ service.name }} representative property context" width="1400" height="1000"></div><div><span class="eyebrow">Recognize the situation</span><h2>{{ service.recognition }}</h2><p>{{ service.scope }}</p></div></div></section>
+<section class="section section-surface"><div class="wrap"><div class="section-intro"><span class="eyebrow">Representative scope</span><h2>A useful starting point.</h2></div><div class="scope-grid">{% for scope in site.data.scopes %}{% if scope.service == service.id %}{% include scope.html scope=scope %}{% endif %}{% endfor %}</div></div></section>
+<section class="section"><div class="wrap split"><div><span class="eyebrow">Fit note</span><h2>Scope is clarified before accepted work is coordinated.</h2></div><div class="body-copy"><p>{{ service.boundary }}</p><p>Representative imagery shows the kind of property condition or task this service line can help a visitor recognize. It is not a claim about a specific completed project.</p></div></div></section>
+{% include cta.html heading="Request work in this service line." context=page.context %}

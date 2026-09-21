@@ -1,0 +1,150 @@
+steadymark-property-services-handoff-v1.0/
+├── assets/
+│   ├── brand/
+│   │   ├── delivery/
+│   │   │   ├── favicons/
+│   │   │   │   ├── steadymark-favicon-16.png
+│   │   │   │   ├── steadymark-favicon-180.png
+│   │   │   │   ├── steadymark-favicon-192.png
+│   │   │   │   ├── steadymark-favicon-32.png
+│   │   │   │   ├── steadymark-favicon-48.png
+│   │   │   │   ├── steadymark-favicon-512.png
+│   │   │   │   ├── steadymark-favicon-64.png
+│   │   │   │   ├── steadymark-favicon-96.png
+│   │   │   │   └── steadymark-favicon.svg
+│   │   │   ├── steadymark-registration-mark.png
+│   │   │   ├── steadymark-wordmark-primary-graphite.png
+│   │   │   ├── steadymark-wordmark-primary-white.png
+│   │   │   ├── steadymark-wordmark-primary.png
+│   │   │   └── steadymark-wordmark-stacked.png
+│   │   ├── masters/
+│   │   │   ├── identity-tokens.json
+│   │   │   ├── IDENTITY_MASTER_README.txt
+│   │   │   ├── steadymark-registration-mark-graphite.svg
+│   │   │   ├── steadymark-registration-mark-white.svg
+│   │   │   ├── steadymark-registration-mark.svg
+│   │   │   ├── steadymark-wordmark-primary-black.svg
+│   │   │   ├── steadymark-wordmark-primary-graphite.svg
+│   │   │   ├── steadymark-wordmark-primary-white.svg
+│   │   │   ├── steadymark-wordmark-primary.svg
+│   │   │   └── steadymark-wordmark-stacked.svg
+│   │   └── reference/
+│   │       └── steadymark-identity-refinement-v1.1.jpg
+│   ├── photography/
+│   │   ├── representative/
+│   │   │   ├── hero/
+│   │   │   │   ├── SM-HERO-01-home-hero-alternate.png
+│   │   │   │   └── SM-HERO-01-home-hero-primary.png
+│   │   │   ├── materials/
+│   │   │   │   ├── SM-MAT-01-doors-hardware.png
+│   │   │   │   ├── SM-MAT-02-walls-trim-finish.png
+│   │   │   │   ├── SM-MAT-03-cabinet-fixture-alternate.png
+│   │   │   │   ├── SM-MAT-03-cabinet-fixture-primary.png
+│   │   │   │   ├── SM-MAT-04-flooring-transition.png
+│   │   │   │   └── SM-MAT-05-working-materials.png
+│   │   │   ├── people/
+│   │   │   │   └── robert/
+│   │   │   │       └── approved-derivatives/
+│   │   │   │           ├── SM-ROB-01-interior-working-wide.png
+│   │   │   │           ├── SM-ROB-02-interior-working-close.png
+│   │   │   │           ├── SM-ROB-03-exterior-working.png
+│   │   │   │           ├── SM-ROB-ALT-01-interior-working.png
+│   │   │   │           └── SM-ROB-ALT-02-interior-working.png
+│   │   │   ├── property/
+│   │   │   │   └── SM-PROP-01-multi-property-context.png
+│   │   │   └── services/
+│   │   │       ├── SM-SVC-01-make-readies-turns.png
+│   │   │       ├── SM-SVC-02-maintenance-property-support.png
+│   │   │       ├── SM-SVC-03-repairs-punch-work.png
+│   │   │       └── SM-SVC-04-recurring-contract-support.png
+│   │   └── source-references/
+│   │       └── robert/
+│   │           ├── SM-ROB-R01-original-interior-side-profile.jpeg
+│   │           ├── SM-ROB-R02-original-interior-wide.jpeg
+│   │           └── SM-ROB-R03-original-exterior.jpeg
+│   ├── references/
+│   │   ├── contact-sheets/
+│   │   │   ├── asset-contact-sheet.jpg
+│   │   │   └── robert-reference-contact-sheet.jpg
+│   │   ├── historical-generation/
+│   │   │   ├── 6B22D489-6753-4D8E-A40E-728BEECB3127.jpeg
+│   │   │   ├── A8548D27-7362-427E-B009-A5833A97E7B9.jpeg
+│   │   │   ├── a_clean_graphic_brand_style_guide_layout_high_res.png
+│   │   │   ├── a_clean_minimal_flat_graphic_design_presentation.png
+│   │   │   ├── a_clean_minimalist_graphic_on_a_white_background.png
+│   │   │   ├── a_clean_photorealistic_product_mockup_scene_two.png
+│   │   │   ├── a_clean_professional_brand_style_guide_layout_on.png
+│   │   │   ├── a_clean_professional_branding_identity_presentati.png
+│   │   │   ├── a_clean_vector_style_branding_asset_sheet_on_a_whi.png
+│   │   │   ├── a_clean_white_background_graphic_logo_image_min.png
+│   │   │   ├── a_clean_white_background_graphic_logo_image_minim.png
+│   │   │   ├── a_clean_white_background_with_a_centered_minimali.png
+│   │   │   ├── D586BEFA-E8EA-4CA5-B4A2-01EFF2C07BBB(1).jpeg
+│   │   │   ├── D586BEFA-E8EA-4CA5-B4A2-01EFF2C07BBB(2).jpeg
+│   │   │   ├── D586BEFA-E8EA-4CA5-B4A2-01EFF2C07BBB.jpeg
+│   │   │   ├── DDE1A71E-FB7C-447A-8614-B9761EA60EC1.jpeg
+│   │   │   ├── imagegen.png
+│   │   │   ├── mark_crop2.png
+│   │   │   ├── primary_crop2.png
+│   │   │   ├── primary_ref_crop.png
+│   │   │   ├── stacked_crop2.png
+│   │   │   ├── steadymark_property_services_logo.png
+│   │   │   ├── wide_flat_graphic_design_brand_styleboard_identi.png
+│   │   │   ├── wide_interior_photograph_of_a_clean_realistic_mo.png
+│   │   │   └── wide_rectangular_graphic_design_image_a_clean_bra.png
+│   │   ├── page-specimens/
+│   │   │   ├── a_clean_commercial_webpage_marketing_layout_for_a.png
+│   │   │   ├── a_clean_grid_style_collage_of_six_high_resolution.png
+│   │   │   ├── a_clean_high_fidelity_mockup_image_of_a_mobile_we.png
+│   │   │   ├── a_clean_modern_website_about_page_layout_for_a.png
+│   │   │   ├── a_clean_professional_modern_marketing_website_st.png
+│   │   │   ├── a_clean_professional_real_estate_property_service.png
+│   │   │   ├── a_clean_professional_website_landing_page_banne.png
+│   │   │   ├── a_clean_ui_ux_design_presentation_board_overall_s.png
+│   │   │   ├── a_wide_clean_professional_real_estate_property_s.png
+│   │   │   ├── steadymark_property_services_about_page.png
+│   │   │   ├── steadymark_property_services_homepage.png
+│   │   │   ├── steadymark_property_services_porch_scene.png
+│   │   │   ├── wide_clean_branded_marketing_webpage_section_mock.png
+│   │   │   ├── wide_clean_commercial_website_landing_page_layout.png
+│   │   │   ├── wide_clean_website_landing_page_mockup_for_a_prop.png
+│   │   │   ├── wide_professional_cinematic_home_maintenance_bra.png
+│   │   │   ├── wide_web_page_homepage_hero_mockup_for_a_propert.png
+│   │   │   ├── wide_website_hero_landing_page_mockup_scene_a_cle.png
+│   │   │   ├── wide_website_landing_page_mockup_hero_content_la.png
+│   │   │   └── wide_website_style_marketing_page_layout_clean_mo.png
+│   │   └── README_DO_NOT_IMPORT.md
+│   └── social/
+│       ├── generated/
+│       └── README.md
+├── config/
+│   ├── business.json
+│   ├── design-tokens.json
+│   ├── operational-tbd.json
+│   ├── representative-scopes.json
+│   ├── route-registry.json
+│   └── service-lines.json
+├── docs/
+│   ├── 00_OFA_CANONICAL_RECONCILIATION.md
+│   ├── 01_WEB_CONSTITUTION.md
+│   ├── 02_SITE_INFORMATION_ARCHITECTURE.md
+│   ├── 03_PAGE_CONTRACTS.md
+│   ├── 04_CONTENT_OBJECT_MODEL.md
+│   ├── 05_REQUEST_WORK_INTERACTION_CONTRACT.md
+│   ├── 06_VISUAL_SYSTEM_SPECIFICATION.md
+│   ├── 07_RESPONSIVE_ACCESSIBILITY_PERFORMANCE.md
+│   ├── 08_TRUST_SEO_LOCAL_DISCOVERY.md
+│   ├── 09_ASSET_PHOTOGRAPHY_ARCHITECTURE.md
+│   ├── 10_FINAL_ASSET_INVENTORY.md
+│   └── 11_CODEX_IMPLEMENTATION_DIRECTIVE.md
+├── implementation/
+│   ├── CODEX_HANDOFF.md
+│   └── TODO_BEFORE_LAUNCH.md
+├── manifests/
+│   ├── asset-manifest.json
+│   ├── asset-provenance.csv
+│   └── package-manifest.json
+├── source-archives/
+│   ├── steadymark_brand_assets_v1.zip
+│   └── steadymark_identity_masters_v1.zip
+└── README.md

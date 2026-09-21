@@ -1,0 +1,40 @@
+- id: make-readies-turns
+  name: Make-Readies & Turns
+  route: /services/make-readies-turns/
+  image: /assets/photography/make-readies.png
+  eyebrow: Before a property is ready again
+  question: What needs to happen before this property is ready again?
+  recognition: Vacant units, turnovers, and property transitions where several ordinary conditions need to move toward a defined ready state.
+  scope: Wall and finish touch-ups, doors and hardware, cabinets and fixtures, flooring transitions, and other coordinated property corrections.
+  boundary: Scope is clarified property by property. Work that requires regulated trade authority or specialty contractors remains subject to fit and confirmation.
+  scope_id: vacant-unit-turn
+- id: maintenance-property-support
+  name: Maintenance & Property Support
+  route: /services/maintenance-property-support/
+  image: /assets/photography/maintenance.png
+  eyebrow: Keep the property attended to
+  question: What needs attention to keep this property functioning well?
+  recognition: Routine maintenance visits, smaller corrections, and practical property needs that are easier to handle with organized follow-through.
+  scope: Property visits, minor repairs, finish care, hardware adjustments, and other defined support that keeps a space functional and presentable.
+  boundary: A maintenance request is not automatically a specialty trade service. The right next step depends on the condition and the requested scope.
+  scope_id: rental-maintenance-visit
+- id: repairs-punch-work
+  name: Repairs & Punch Work
+  route: /services/repairs-punch-work/
+  image: /assets/photography/repairs.png
+  eyebrow: Make a defined scope understandable
+  question: What defined corrections need to be completed?
+  recognition: A single repair or a list of smaller items that need to be described, coordinated, and closed out as one understandable request.
+  scope: Multi-item punch scopes, single residential repairs, finish corrections, hardware issues, and other property-level items within confirmed fit.
+  boundary: Several small issues can form one coordinated request, but the work still needs to be reviewed for conditions, access, and specialty requirements.
+  scope_id: multi-item-punch-scope
+- id: recurring-contract-support
+  name: Recurring & Contract Support
+  route: /services/recurring-contract-support/
+  image: /assets/photography/recurring.png
+  eyebrow: Build a continuing working relationship
+  question: What repeated property needs would benefit from one continuing relationship?
+  recognition: Repeated property needs across one or more locations where continuity and clear scope matter more than a one-off visit.
+  scope: Recurring maintenance, repeated punch or turn support, and multi-property coordination shaped around the actual work pattern.
+  boundary: Ongoing support is discussed as a fit-based relationship. There are no public tiers, response guarantees, or assumed availability.
+  scope_id: recurring-multi-property-support

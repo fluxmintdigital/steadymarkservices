@@ -1,0 +1,10 @@
+- id: repair
+  label: Repair or smaller job
+- id: turn
+  label: Make-ready / unit turn
+- id: punch
+  label: Multi-item / punch scope
+- id: recurring
+  label: Recurring / multi-property support
+- id: unsure
+  label: Not sure

@@ -1,0 +1,21 @@
+title: SteadyMark Property Services
+description: Property services for make-readies, maintenance support, repairs, punch work, and recurring property needs.
+url: "https://steadymarkservices.com"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - script
+  - steadymark-property-services-handoff-v1.0
+  - vendor
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /assets/photography/hero.png

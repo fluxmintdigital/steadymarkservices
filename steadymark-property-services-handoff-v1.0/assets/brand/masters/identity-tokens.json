@@ -1,0 +1,14 @@
+{
+  "name": "SteadyMark Property Services",
+  "domain": "steadymarkservices.com",
+  "email": "service@steadymarkservices.com",
+  "phone": "(210) 710-4309",
+  "colors": {
+    "working_surface": "#F4EFEA",
+    "graphite": "#2E2E2E",
+    "clay_oxide": "#B2553C",
+    "stone": "#C9C2B8",
+    "steel": "#8A9399"
+  },
+  "typeface": "Manrope"
+}

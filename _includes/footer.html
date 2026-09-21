@@ -1,0 +1,22 @@
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <img class="footer-mark" src="{{ '/assets/brand/steadymark-wordmark-primary-white.svg' | relative_url }}" alt="SteadyMark Property Services" width="194" height="38">
+      <p class="footer-note">Property services organized around the work a property actually needs.</p>
+    </div>
+    <div>
+      <h2 class="footer-heading">Explore</h2>
+      <a href="{{ '/services/' | relative_url }}">Services</a>
+      <a href="{{ '/about/' | relative_url }}">About SteadyMark</a>
+      <a href="{{ '/request-work/' | relative_url }}">Request Work</a>
+      <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
+    </div>
+    <div>
+      <h2 class="footer-heading">Contact</h2>
+      <a href="tel:{{ site.data.business.phone_tel }}">{{ site.data.business.phone_display }}</a>
+      <a href="mailto:{{ site.data.business.email }}">{{ site.data.business.email }}</a>
+      <p class="footer-muted">Service geography is being confirmed before publication.</p>
+    </div>
+  </div>
+  <div class="wrap footer-bottom"><span>© {{ site.time | date: '%Y' }} SteadyMark Property Services</span><span>Clear scope. Accountable work.</span></div>
+</footer>

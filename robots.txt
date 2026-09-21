@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /request-work/received/
+Sitemap: https://steadymarkservices.com/sitemap.xml

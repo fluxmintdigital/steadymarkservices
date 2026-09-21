@@ -1,0 +1,34 @@
+[
+  {
+    "id": "make-readies-turns",
+    "name": "Make-Readies & Turns",
+    "route": "/services/make-readies-turns/",
+    "status": "active",
+    "primaryAsset": "SM-SVC-01",
+    "primaryScope": "vacant-unit-turn"
+  },
+  {
+    "id": "maintenance-property-support",
+    "name": "Maintenance & Property Support",
+    "route": "/services/maintenance-property-support/",
+    "status": "active",
+    "primaryAsset": "SM-SVC-02",
+    "primaryScope": "rental-maintenance-visit"
+  },
+  {
+    "id": "repairs-punch-work",
+    "name": "Repairs & Punch Work",
+    "route": "/services/repairs-punch-work/",
+    "status": "active",
+    "primaryAsset": "SM-SVC-03",
+    "primaryScope": "multi-item-punch-scope"
+  },
+  {
+    "id": "recurring-contract-support",
+    "name": "Recurring & Contract Support",
+    "route": "/services/recurring-contract-support/",
+    "status": "active",
+    "primaryAsset": "SM-SVC-04",
+    "primaryScope": "recurring-multi-property-support"
+  }
+]

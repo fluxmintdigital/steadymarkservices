@@ -1,0 +1,613 @@
+{
+  "package": "SteadyMark Property Services Canonical Handoff",
+  "version": "1.0",
+  "date": "2026-09-20",
+  "fileCount": 121,
+  "files": [
+    {
+      "path": "DIRECTORY_TREE.txt",
+      "bytes": 8659,
+      "sha256": "a1004b23c87c588abb17799a47c4b55bb35db3f4620e90de59d2597b16484b36"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2210,
+      "sha256": "382fbcd5545fd8efcec4d0d7d658b465cea543f98d912aaf2e8347b3d4502549"
+    },
+    {
+      "path": "assets/brand/delivery/favicons/steadymark-favicon-16.png",
+      "bytes": 264,
+      "sha256": "86306c0682ad7f810b7f43bc4b2d268b26a641babc218d61816085655a4ee3f4"
+    },
+    {
+      "path": "assets/brand/delivery/favicons/steadymark-favicon-180.png",
+      "bytes": 726,
+      "sha256": "e4aa1216a979d5a29d253e51acf135e0c88b7235e0b5f12d39e868f859fe9f8b"
+    },
+    {
+      "path": "assets/brand/delivery/favicons/steadymark-favicon-192.png",
+      "bytes": 792,
+      "sha256": "5d231fb9ad552d84d6a25d106b381deef4f395eac65e217b2ef79d7fe8e40ed9"
+    },
+    {
+      "path": "assets/brand/delivery/favicons/steadymark-favicon-32.png",
+      "bytes": 281,
+      "sha256": "b2ef8aec4645c06f27801ff1fec0e22e9a4291a211a37c16e8bd7ca0d329365d"
+    },
+    {
+      "path": "assets/brand/delivery/favicons/steadymark-favicon-48.png",
+      "bytes": 329,
+      "sha256": "c61d00663756ad319b5ca37f3764c16f5d70d6a3ef5586aad61066eef54b436a"
+    },
+    {
+      "path": "assets/brand/delivery/favicons/steadymark-favicon-512.png",
+      "bytes": 2387,
+      "sha256": "0582e18bb4118274cb3c7a2e9337772bd9c0d3b7763ee41fb19100ada81911c4"
+    },
+    {
+      "path": "assets/brand/delivery/favicons/steadymark-favicon-64.png",
+      "bytes": 392,
+      "sha256": "00ebaf289976bd16e49e3d867849f17f33a70b8a4f25663426437c2cb6594e0d"
+    },
+    {
+      "path": "assets/brand/delivery/favicons/steadymark-favicon-96.png",
+      "bytes": 474,
+      "sha256": "f06472008510e50e95fcf4594be3ffd34a1b87162aeb95e16babf2dae58419ea"
+    },
+    {
+      "path": "assets/brand/delivery/favicons/steadymark-favicon.svg",
+      "bytes": 180,
+      "sha256": "ce83259356b3178fbc11e52ee0e0ee1907d40956822ffb6ffdc22e85f48f8e51"
+    },
+    {
+      "path": "assets/brand/delivery/steadymark-registration-mark.png",
+      "bytes": 8624,
+      "sha256": "d0779dddf05172bb21019ce86f6fa38ca867e1794f759f3dfd0d9cc3f5c4a5ed"
+    },
+    {
+      "path": "assets/brand/delivery/steadymark-wordmark-primary-graphite.png",
+      "bytes": 74110,
+      "sha256": "2cc6aa2e114b42ac0f0f0c1402ba4d485c0dfea6e327513f4d0da5bdb13b242b"
+    },
+    {
+      "path": "assets/brand/delivery/steadymark-wordmark-primary-white.png",
+      "bytes": 52458,
+      "sha256": "1db99cd72744f2b5298d286c72fa7a4e947abad40fd10d56f94a37f0e05d3894"
+    },
+    {
+      "path": "assets/brand/delivery/steadymark-wordmark-primary.png",
+      "bytes": 74156,
+      "sha256": "6dfd5a211c30750d09fdece83e55bf963f785f16cfda0df4fa8c5bd3cbe1a1b5"
+    },
+    {
+      "path": "assets/brand/delivery/steadymark-wordmark-stacked.png",
+      "bytes": 74156,
+      "sha256": "6dfd5a211c30750d09fdece83e55bf963f785f16cfda0df4fa8c5bd3cbe1a1b5"
+    },
+    {
+      "path": "assets/brand/masters/IDENTITY_MASTER_README.txt",
+      "bytes": 933,
+      "sha256": "bd946728daa4c5b95d90ad8d412d5687bd5ec96bb080b050c37945ddea13233c"
+    },
+    {
+      "path": "assets/brand/masters/identity-tokens.json",
+      "bytes": 337,
+      "sha256": "07553e085c5bdc81af90c16d5aad408ecb50e34a54fdf73336bbf1c02a1fcf29"
+    },
+    {
+      "path": "assets/brand/masters/steadymark-registration-mark-graphite.svg",
+      "bytes": 180,
+      "sha256": "0da8b17e52ee2cc6ed1aeea4b7e7cb41b579612f45bdb217dac3eb3394e7390f"
+    },
+    {
+      "path": "assets/brand/masters/steadymark-registration-mark-white.svg",
+      "bytes": 180,
+      "sha256": "a5d75521fbc0a292f341c6d5e118aace8fa5a716512c3810164d7251b794aab7"
+    },
+    {
+      "path": "assets/brand/masters/steadymark-registration-mark.svg",
+      "bytes": 180,
+      "sha256": "ce83259356b3178fbc11e52ee0e0ee1907d40956822ffb6ffdc22e85f48f8e51"
+    },
+    {
+      "path": "assets/brand/masters/steadymark-wordmark-primary-black.svg",
+      "bytes": 5212,
+      "sha256": "384dfc1304b6cb5b0ad57cada27305276cb49144392ed88f0d6e327bfb35f663"
+    },
+    {
+      "path": "assets/brand/masters/steadymark-wordmark-primary-graphite.svg",
+      "bytes": 5212,
+      "sha256": "0b84753e04a23d5121c62e7d5bd1edf9aa8b144414c30744bc638237acfd371d"
+    },
+    {
+      "path": "assets/brand/masters/steadymark-wordmark-primary-white.svg",
+      "bytes": 5212,
+      "sha256": "e9c49807efae6d6b52fe2320e387c7a94436e8d37684ab930497f173a960488f"
+    },
+    {
+      "path": "assets/brand/masters/steadymark-wordmark-primary.svg",
+      "bytes": 5259,
+      "sha256": "dcead35daab29fac7fc712a60fafcd831293b7f8d46d9d5aef5041b7289b41f8"
+    },
+    {
+      "path": "assets/brand/masters/steadymark-wordmark-stacked.svg",
+      "bytes": 5277,
+      "sha256": "671f8311a64d64dca2aac030e854761a4f2d0dff8b5af480b9f49772c3f8c12c"
+    },
+    {
+      "path": "assets/brand/reference/steadymark-identity-refinement-v1.1.jpg",
+      "bytes": 444192,
+      "sha256": "02a5c5b74b295bd08bd0ec69fd23011849e0fddda726a5d0670556784aeadf1d"
+    },
+    {
+      "path": "assets/photography/representative/hero/SM-HERO-01-home-hero-alternate.png",
+      "bytes": 3019850,
+      "sha256": "e9fc246a555678ff7647ac773b6dce70cfaa0659b49584b15e0b6ad8d2ed6d0c"
+    },
+    {
+      "path": "assets/photography/representative/hero/SM-HERO-01-home-hero-primary.png",
+      "bytes": 3031868,
+      "sha256": "48793447fe7d9704191e038cba089ef8324cf197ddaf024c69934d6f3d5f5682"
+    },
+    {
+      "path": "assets/photography/representative/materials/SM-MAT-01-doors-hardware.png",
+      "bytes": 2056591,
+      "sha256": "e278aaa9044021257660d94fc9bcd5264b437a1cbeb11d29ad89b71b7fabd93b"
+    },
+    {
+      "path": "assets/photography/representative/materials/SM-MAT-02-walls-trim-finish.png",
+      "bytes": 1994628,
+      "sha256": "487f6e903a02ab703bbb6887cb718e67fe8e5c16ffe3b2b0316df7fc22caebe3"
+    },
+    {
+      "path": "assets/photography/representative/materials/SM-MAT-03-cabinet-fixture-alternate.png",
+      "bytes": 1846526,
+      "sha256": "d8df13b360f97a346a29099482c6f8c0bdcff7857231362b74a4671d827714d6"
+    },
+    {
+      "path": "assets/photography/representative/materials/SM-MAT-03-cabinet-fixture-primary.png",
+      "bytes": 1946637,
+      "sha256": "0e172cde74b59c2381c4bc307a6fe3e5ab7859b484f4dc1df6896e30ecf47aa8"
+    },
+    {
+      "path": "assets/photography/representative/materials/SM-MAT-04-flooring-transition.png",
+      "bytes": 2206354,
+      "sha256": "7e9a3086404e0ccba9034fbf9b5b52fd1ee5d73d5eab6f4ee6bde5b035d27608"
+    },
+    {
+      "path": "assets/photography/representative/materials/SM-MAT-05-working-materials.png",
+      "bytes": 2140869,
+      "sha256": "620f500115a5c3f5afd79b079770392ea89e7916738b11b86f06b6125e8b5222"
+    },
+    {
+      "path": "assets/photography/representative/people/robert/approved-derivatives/SM-ROB-01-interior-working-wide.png",
+      "bytes": 2286534,
+      "sha256": "0da7efa31df751338595989f7cb2eae5d51fbc84b528105d27f6a5b234ca884c"
+    },
+    {
+      "path": "assets/photography/representative/people/robert/approved-derivatives/SM-ROB-02-interior-working-close.png",
+      "bytes": 2114711,
+      "sha256": "7190f1d1f88242df57cacf72bc00f581c78f0a0693234e207191a454ab61d83f"
+    },
+    {
+      "path": "assets/photography/representative/people/robert/approved-derivatives/SM-ROB-03-exterior-working.png",
+      "bytes": 2360195,
+      "sha256": "934bc50a6b72e02f56ff55c697932d2197331d98a68586e2be358107f53eaf0d"
+    },
+    {
+      "path": "assets/photography/representative/people/robert/approved-derivatives/SM-ROB-ALT-01-interior-working.png",
+      "bytes": 2334044,
+      "sha256": "cc4516116d3d3deb2681a478094dd781559999bc1d773ed0abe13ce76f9ae97d"
+    },
+    {
+      "path": "assets/photography/representative/people/robert/approved-derivatives/SM-ROB-ALT-02-interior-working.png",
+      "bytes": 2155101,
+      "sha256": "08bafe3d49793ba55c05fa233921e5e269bf9c6d5d82096e4a4e87942e3d351f"
+    },
+    {
+      "path": "assets/photography/representative/property/SM-PROP-01-multi-property-context.png",
+      "bytes": 2912384,
+      "sha256": "201bc6eb3fe1707bad87b8ed01a23f9c5f7142d488a9c8b60c6425357affcb99"
+    },
+    {
+      "path": "assets/photography/representative/services/SM-SVC-01-make-readies-turns.png",
+      "bytes": 2050265,
+      "sha256": "81de2d5a1ac143f346f21ca647c87a8be25f34045abf9716ae43421e60749349"
+    },
+    {
+      "path": "assets/photography/representative/services/SM-SVC-02-maintenance-property-support.png",
+      "bytes": 2056564,
+      "sha256": "eddf99e05ce9d38d956ccbde7b8c10fb5d6f30eef2a7f294294f4e1708b78459"
+    },
+    {
+      "path": "assets/photography/representative/services/SM-SVC-03-repairs-punch-work.png",
+      "bytes": 2135544,
+      "sha256": "d9eb8e07172ccd8ff358b925db252bc25f178e76d1c0da7f804586a657731b75"
+    },
+    {
+      "path": "assets/photography/representative/services/SM-SVC-04-recurring-contract-support.png",
+      "bytes": 2641551,
+      "sha256": "f4f8046ea75e33f9319dabd48523352d7e10a979a7955c0d02045b85f1c17b7a"
+    },
+    {
+      "path": "assets/photography/source-references/robert/SM-ROB-R01-original-interior-side-profile.jpeg",
+      "bytes": 390774,
+      "sha256": "93156c2c258cd2586e6ff35779b3805df3affd448831a06b00a088daca59e63c"
+    },
+    {
+      "path": "assets/photography/source-references/robert/SM-ROB-R02-original-interior-wide.jpeg",
+      "bytes": 118891,
+      "sha256": "36d6dc29e629673e207b4798e6e6f1c9ea284fa65a038aa8c05a2d393c8e540c"
+    },
+    {
+      "path": "assets/photography/source-references/robert/SM-ROB-R03-original-exterior.jpeg",
+      "bytes": 197576,
+      "sha256": "94d4059966c005f55ec6e303c0967f9361535c9cd60c256bca7304b6ac277225"
+    },
+    {
+      "path": "assets/references/README_DO_NOT_IMPORT.md",
+      "bytes": 461,
+      "sha256": "da7cbec98edd780dcbfe1b0c72060c212905306e3191e610e3ddc8e8bc20af56"
+    },
+    {
+      "path": "assets/references/contact-sheets/asset-contact-sheet.jpg",
+      "bytes": 341029,
+      "sha256": "f4ebba6ff2028400c7ae414d0a47fa7d444cf385f4eb97a65e0af5625947063c"
+    },
+    {
+      "path": "assets/references/contact-sheets/robert-reference-contact-sheet.jpg",
+      "bytes": 298776,
+      "sha256": "1e56354656b8bd1f01a670c2bcea5be864a9f1b5845155281db2da2fcc2c0fc2"
+    },
+    {
+      "path": "assets/references/historical-generation/6B22D489-6753-4D8E-A40E-728BEECB3127.jpeg",
+      "bytes": 504824,
+      "sha256": "f810f94f1122274282b0fa2515ffb7935460258dafde18f4307ce2b43ccca6df"
+    },
+    {
+      "path": "assets/references/historical-generation/A8548D27-7362-427E-B009-A5833A97E7B9.jpeg",
+      "bytes": 451901,
+      "sha256": "dc8c1702d4a70a160fcac07010bd42c1a67858274a31cbdcc653b68a1d7d02a1"
+    },
+    {
+      "path": "assets/references/historical-generation/D586BEFA-E8EA-4CA5-B4A2-01EFF2C07BBB(1).jpeg",
+      "bytes": 406627,
+      "sha256": "d2afea4a672000bd2c570d9ed7909584a67b955894c417fdc9cee70885e3a895"
+    },
+    {
+      "path": "assets/references/historical-generation/D586BEFA-E8EA-4CA5-B4A2-01EFF2C07BBB(2).jpeg",
+      "bytes": 406627,
+      "sha256": "d2afea4a672000bd2c570d9ed7909584a67b955894c417fdc9cee70885e3a895"
+    },
+    {
+      "path": "assets/references/historical-generation/D586BEFA-E8EA-4CA5-B4A2-01EFF2C07BBB.jpeg",
+      "bytes": 406627,
+      "sha256": "d2afea4a672000bd2c570d9ed7909584a67b955894c417fdc9cee70885e3a895"
+    },
+    {
+      "path": "assets/references/historical-generation/DDE1A71E-FB7C-447A-8614-B9761EA60EC1.jpeg",
+      "bytes": 486518,
+      "sha256": "9a74ab223714b634b2eaf2f0f0a18f16e38330238a2f39f1204d1a5a3b546fa4"
+    },
+    {
+      "path": "assets/references/historical-generation/a_clean_graphic_brand_style_guide_layout_high_res.png",
+      "bytes": 1671966,
+      "sha256": "58067aa16bf50786aba61d898deda7115af52b589bdac6528276de54822ab5df"
+    },
+    {
+      "path": "assets/references/historical-generation/a_clean_minimal_flat_graphic_design_presentation.png",
+      "bytes": 1126261,
+      "sha256": "201975e9434fb30442d8c3576e3d428a67f9fb03624abfa7be4937fae41df286"
+    },
+    {
+      "path": "assets/references/historical-generation/a_clean_minimalist_graphic_on_a_white_background.png",
+      "bytes": 169676,
+      "sha256": "ff54e9a997fb909ef07967375f2a3be1cc1429ca347e8eb7171ea6451baaf8f3"
+    },
+    {
+      "path": "assets/references/historical-generation/a_clean_photorealistic_product_mockup_scene_two.png",
+      "bytes": 1780758,
+      "sha256": "9312827579ff652871f7ea463cef9d135d76a1a951fa203a607beacb25f68730"
+    },
+    {
+      "path": "assets/references/historical-generation/a_clean_professional_brand_style_guide_layout_on.png",
+      "bytes": 1531854,
+      "sha256": "89abbda79906370e5550e4d415255abb64759c33db1a1299bd7fd1f660b177b2"
+    },
+    {
+      "path": "assets/references/historical-generation/a_clean_professional_branding_identity_presentati.png",
+      "bytes": 1695686,
+      "sha256": "27f00e8595557e1f16d5f215697fffc17ef1c49a5be4b691a219cab554905f39"
+    },
+    {
+      "path": "assets/references/historical-generation/a_clean_vector_style_branding_asset_sheet_on_a_whi.png",
+      "bytes": 1004288,
+      "sha256": "f55ba20e78248299e6582ee1921a8a42503b619b2589fc190547fff0aa0e41f6"
+    },
+    {
+      "path": "assets/references/historical-generation/a_clean_white_background_graphic_logo_image_min.png",
+      "bytes": 794848,
+      "sha256": "5d4b86a13b87606cd295d6a7e4e042a059472d2fe7650446157b68fe0bc32d4c"
+    },
+    {
+      "path": "assets/references/historical-generation/a_clean_white_background_graphic_logo_image_minim.png",
+      "bytes": 376772,
+      "sha256": "9f68b00b0c83626edfc2f7f69c26bf91c33b227dc982b19e663148696c6f8208"
+    },
+    {
+      "path": "assets/references/historical-generation/a_clean_white_background_with_a_centered_minimali.png",
+      "bytes": 793826,
+      "sha256": "bc50cff3316e28a59af7f5546ff07c1fd09435924aa154ccf24cca50fd483236"
+    },
+    {
+      "path": "assets/references/historical-generation/imagegen.png",
+      "bytes": 2334044,
+      "sha256": "cc4516116d3d3deb2681a478094dd781559999bc1d773ed0abe13ce76f9ae97d"
+    },
+    {
+      "path": "assets/references/historical-generation/mark_crop2.png",
+      "bytes": 9884,
+      "sha256": "b32618762610cfe7b37def9fb149f05d2ef51bbd77c94aa2c75395319d80867e"
+    },
+    {
+      "path": "assets/references/historical-generation/primary_crop2.png",
+      "bytes": 58714,
+      "sha256": "cc88f230c99313e85675684e50329bfa841ebc37f68b7281ee167af363ca0ba7"
+    },
+    {
+      "path": "assets/references/historical-generation/primary_ref_crop.png",
+      "bytes": 60191,
+      "sha256": "5fba9458a6e977a3471b51cf7a589ece78d30ef557aff6de3fa3a955eed0846e"
+    },
+    {
+      "path": "assets/references/historical-generation/stacked_crop2.png",
+      "bytes": 40253,
+      "sha256": "9cfb6d450e12a9c13d7e2ffd6ff85c883b798b78bdac9546ec5828f052daf76a"
+    },
+    {
+      "path": "assets/references/historical-generation/steadymark_property_services_logo.png",
+      "bytes": 248632,
+      "sha256": "a1fc285c3156c992119d2a3d87dd7b4b54dc3a82715552bc20788cc09e230342"
+    },
+    {
+      "path": "assets/references/historical-generation/wide_flat_graphic_design_brand_styleboard_identi.png",
+      "bytes": 1523807,
+      "sha256": "fe75053cd93c9bce789997bb427e8d60a40b695570e9a82d79e427d432b12b6b"
+    },
+    {
+      "path": "assets/references/historical-generation/wide_interior_photograph_of_a_clean_realistic_mo.png",
+      "bytes": 1988716,
+      "sha256": "dd40833eb5d3b485cbb81c59c941dd43199137786ee562cee149539a7fe198e5"
+    },
+    {
+      "path": "assets/references/historical-generation/wide_rectangular_graphic_design_image_a_clean_bra.png",
+      "bytes": 1083309,
+      "sha256": "8e941856ece9390dfb214d7e7b472484936a7e9c6e95760f017d68e4b2712fac"
+    },
+    {
+      "path": "assets/references/page-specimens/a_clean_commercial_webpage_marketing_layout_for_a.png",
+      "bytes": 1824224,
+      "sha256": "87855eb386909025b7930f4d48a4e57c7139f0fc5b94b8c00fc693912404ebcc"
+    },
+    {
+      "path": "assets/references/page-specimens/a_clean_grid_style_collage_of_six_high_resolution.png",
+      "bytes": 2380461,
+      "sha256": "b78be7d0d7d4fdd205cde5a853a813696404678f4a2b2c9ef9502f1f5ed23a7b"
+    },
+    {
+      "path": "assets/references/page-specimens/a_clean_high_fidelity_mockup_image_of_a_mobile_we.png",
+      "bytes": 1769574,
+      "sha256": "02d8d0de03ac4415bd6519dc731bf14eef1711e7eb98913de8a0f0ba61da6a41"
+    },
+    {
+      "path": "assets/references/page-specimens/a_clean_modern_website_about_page_layout_for_a.png",
+      "bytes": 2097357,
+      "sha256": "1c056080447000b8c7ab603634ebbe18270399705a092184dc6f7a92af98cb02"
+    },
+    {
+      "path": "assets/references/page-specimens/a_clean_professional_modern_marketing_website_st.png",
+      "bytes": 1948914,
+      "sha256": "bf69f6da3538a0850515e017b62bfe8b6433a9c02c5d5bfc19b1e458a15ec33e"
+    },
+    {
+      "path": "assets/references/page-specimens/a_clean_professional_real_estate_property_service.png",
+      "bytes": 1855026,
+      "sha256": "942d4c39791e4f7a7d07a6360a58e9caac62f2aa6de532015c9ce0338b8b96f4"
+    },
+    {
+      "path": "assets/references/page-specimens/a_clean_professional_website_landing_page_banne.png",
+      "bytes": 1911368,
+      "sha256": "60b3e896ebea709e221d14a64506d925647e20cfb702c5ca938f26fdcf6a55d0"
+    },
+    {
+      "path": "assets/references/page-specimens/a_clean_ui_ux_design_presentation_board_overall_s.png",
+      "bytes": 1795296,
+      "sha256": "f4b60905df01d4ab8a375c244efbcb70ff27fadf69128156f726448da899d6fb"
+    },
+    {
+      "path": "assets/references/page-specimens/a_wide_clean_professional_real_estate_property_s.png",
+      "bytes": 1954774,
+      "sha256": "1f5c30dcc0bf731ff7cc98f8e94679a4264c8df05b542c5c11bb5431dc9aa4ea"
+    },
+    {
+      "path": "assets/references/page-specimens/steadymark_property_services_about_page.png",
+      "bytes": 1899171,
+      "sha256": "1ad1e5214565ceb3c0e5ad795138ff3845019e8b71c718ab4e7bbeba0d336f33"
+    },
+    {
+      "path": "assets/references/page-specimens/steadymark_property_services_homepage.png",
+      "bytes": 2008146,
+      "sha256": "f2f45f2d239342b034fab169c79393c8f5c38fc870506fad434c1dec6cfa88e6"
+    },
+    {
+      "path": "assets/references/page-specimens/steadymark_property_services_porch_scene.png",
+      "bytes": 1859504,
+      "sha256": "e16f9c597ca08aacf59a0b9a2a94bc473d49bf82cdc8a39c55d10cf5dfa206c0"
+    },
+    {
+      "path": "assets/references/page-specimens/wide_clean_branded_marketing_webpage_section_mock.png",
+      "bytes": 1932786,
+      "sha256": "6b0696103ee8bbdf30434503fca6b88a51305d9ea0089589d675d708be85eb78"
+    },
+    {
+      "path": "assets/references/page-specimens/wide_clean_commercial_website_landing_page_layout.png",
+      "bytes": 1939750,
+      "sha256": "583fb5223e80461bdd54687dc2b58a7dbb8676efd38a7c8833b13f561488a991"
+    },
+    {
+      "path": "assets/references/page-specimens/wide_clean_website_landing_page_mockup_for_a_prop.png",
+      "bytes": 2128082,
+      "sha256": "f2dde948d3b760b2b9b7558e8b5d472606adc7e713ed248897dbe6b73f614cdc"
+    },
+    {
+      "path": "assets/references/page-specimens/wide_professional_cinematic_home_maintenance_bra.png",
+      "bytes": 1946641,
+      "sha256": "f66991281b762fc6de7c8158cd4414d29453b6bfab97dd701239ff5284e6fdc9"
+    },
+    {
+      "path": "assets/references/page-specimens/wide_web_page_homepage_hero_mockup_for_a_propert.png",
+      "bytes": 1826180,
+      "sha256": "addb4825a1cf2b6298435639fe464025b084ae8e613de20b281b9f8727a57d19"
+    },
+    {
+      "path": "assets/references/page-specimens/wide_website_hero_landing_page_mockup_scene_a_cle.png",
+      "bytes": 1884944,
+      "sha256": "9edcb5cb3ca3065229ba5c23e01f157c3212c9aa170066b510d20d40a3d8e68a"
+    },
+    {
+      "path": "assets/references/page-specimens/wide_website_landing_page_mockup_hero_content_la.png",
+      "bytes": 1817873,
+      "sha256": "efacc75cebed4795b3b7039466b37335ea33b6e1093a4adb57ab10b4fec234f3"
+    },
+    {
+      "path": "assets/references/page-specimens/wide_website_style_marketing_page_layout_clean_mo.png",
+      "bytes": 2061383,
+      "sha256": "f4e1426a06536ad589acb6f25dd0954a2a6c58a03b3427ea9dc4ef0223e103a8"
+    },
+    {
+      "path": "assets/social/README.md",
+      "bytes": 402,
+      "sha256": "e459827d759a4454f70afc66958b51130ca77f95c43bfe803f776df7e0563bad"
+    },
+    {
+      "path": "config/business.json",
+      "bytes": 515,
+      "sha256": "32f59f2f90a84e5a1a4c3b3175f017574b2e2ad85ec6f0186194909fb26759e2"
+    },
+    {
+      "path": "config/design-tokens.json",
+      "bytes": 549,
+      "sha256": "0ddcea76611562006c666d2dfc96ade5d7a636a6a216a925d643ed8b180fac7a"
+    },
+    {
+      "path": "config/operational-tbd.json",
+      "bytes": 434,
+      "sha256": "dc8b42bf059a2e525122fc3f03f26c1014e1eaab67c37c4f19385547d8ea449d"
+    },
+    {
+      "path": "config/representative-scopes.json",
+      "bytes": 904,
+      "sha256": "6b9260326168885977b60f65b8a9ff641829ec01f2b9ca03674138aad371f861"
+    },
+    {
+      "path": "config/route-registry.json",
+      "bytes": 942,
+      "sha256": "889d54a0e2c6966140a34b8aec0076a12b662de08e73563c8843fc96b121722c"
+    },
+    {
+      "path": "config/service-lines.json",
+      "bytes": 963,
+      "sha256": "8f29bc7ef685b1eeaeb307f881724f8f4e28255c76699c53af90fcb65baa968e"
+    },
+    {
+      "path": "docs/00_OFA_CANONICAL_RECONCILIATION.md",
+      "bytes": 3069,
+      "sha256": "ccfe29fdec72d6a0dc91407fa9fc48ef8301e0e941b2db83e1ed6b2e2edba9d4"
+    },
+    {
+      "path": "docs/01_WEB_CONSTITUTION.md",
+      "bytes": 7234,
+      "sha256": "bb63fca88910c9f1d9088f8279ca25ebd94eaf6150ece9bdfdf1d07c7299059a"
+    },
+    {
+      "path": "docs/02_SITE_INFORMATION_ARCHITECTURE.md",
+      "bytes": 4780,
+      "sha256": "72a893e803a9e79e51b002c1064306eca68c79cc114004734b9f5db60fef78d8"
+    },
+    {
+      "path": "docs/03_PAGE_CONTRACTS.md",
+      "bytes": 5102,
+      "sha256": "e47c9806d4ba2b95090967be4a5218d4215c1438bdf8629ed06dc86358524d78"
+    },
+    {
+      "path": "docs/04_CONTENT_OBJECT_MODEL.md",
+      "bytes": 5055,
+      "sha256": "a4b3d2b79f4dad66438304ed3a7eaf654b5ace707895535e600a97a6fe715eaf"
+    },
+    {
+      "path": "docs/05_REQUEST_WORK_INTERACTION_CONTRACT.md",
+      "bytes": 6156,
+      "sha256": "2d9665c09330824b710c43e00fa12505dc92cbd208997c89aace184483598a2f"
+    },
+    {
+      "path": "docs/06_VISUAL_SYSTEM_SPECIFICATION.md",
+      "bytes": 5302,
+      "sha256": "6c631507e04f310c69dedb7b6d7ecd38330d69353b694b39a02aa8b01a56ad65"
+    },
+    {
+      "path": "docs/07_RESPONSIVE_ACCESSIBILITY_PERFORMANCE.md",
+      "bytes": 4859,
+      "sha256": "ed93fc3ea0e0c1844277137a262f1e045eeff50b62450f82020c2271d4abf129"
+    },
+    {
+      "path": "docs/08_TRUST_SEO_LOCAL_DISCOVERY.md",
+      "bytes": 5613,
+      "sha256": "9f9af4361a0cc1b00455ede3fc39d794883733cf2307269f8e5dea57890f1050"
+    },
+    {
+      "path": "docs/09_ASSET_PHOTOGRAPHY_ARCHITECTURE.md",
+      "bytes": 4395,
+      "sha256": "01f25947cdab74fb4b55559cc9c8e52f68f8a2a2711ae1026938761ea7c56f1c"
+    },
+    {
+      "path": "docs/10_FINAL_ASSET_INVENTORY.md",
+      "bytes": 2976,
+      "sha256": "368e2d21feec544974012a7985f6cdf36bccef688835032800362fa048133bbb"
+    },
+    {
+      "path": "docs/11_CODEX_IMPLEMENTATION_DIRECTIVE.md",
+      "bytes": 10186,
+      "sha256": "b985d967373c775b51bae897a2e41171097b055345488d4949d09241541755e7"
+    },
+    {
+      "path": "implementation/CODEX_HANDOFF.md",
+      "bytes": 627,
+      "sha256": "accbe4a436d0937f474012f07f8f6db616adc7755e848b1a6c04186800690b95"
+    },
+    {
+      "path": "implementation/TODO_BEFORE_LAUNCH.md",
+      "bytes": 908,
+      "sha256": "457e8098b6e0d7c794bf81130ff2108679beb3bf87902b6353041af78df49525"
+    },
+    {
+      "path": "manifests/asset-manifest.json",
+      "bytes": 8039,
+      "sha256": "08bfd62662cac0a9e69cb7a63d13ae4d998bac06df04ff54c0564aa736f06a71"
+    },
+    {
+      "path": "manifests/asset-provenance.csv",
+      "bytes": 3615,
+      "sha256": "22f905d21a94fa20d0d985114a1a5effcec25d304ff0ca2b3854535dcbbfb2f3"
+    },
+    {
+      "path": "source-archives/steadymark_brand_assets_v1.zip",
+      "bytes": 2860651,
+      "sha256": "0e78064275133e52d607b94a14305d37591dceb30393ce4f6c1e281e731dc422"
+    },
+    {
+      "path": "source-archives/steadymark_identity_masters_v1.zip",
+      "bytes": 714502,
+      "sha256": "4bca182dc3747034045747518d92c0491e3d65e863c4cc7f68cf870880fb16b7"
+    }
+  ]
+}

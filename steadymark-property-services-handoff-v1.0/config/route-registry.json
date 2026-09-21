@@ -1,0 +1,52 @@
+[
+  {
+    "path": "/",
+    "name": "Home",
+    "index": true
+  },
+  {
+    "path": "/services/",
+    "name": "Services",
+    "index": true
+  },
+  {
+    "path": "/services/make-readies-turns/",
+    "name": "Make-Readies & Turns",
+    "index": true
+  },
+  {
+    "path": "/services/maintenance-property-support/",
+    "name": "Maintenance & Property Support",
+    "index": true
+  },
+  {
+    "path": "/services/repairs-punch-work/",
+    "name": "Repairs & Punch Work",
+    "index": true
+  },
+  {
+    "path": "/services/recurring-contract-support/",
+    "name": "Recurring & Contract Support",
+    "index": true
+  },
+  {
+    "path": "/about/",
+    "name": "About",
+    "index": true
+  },
+  {
+    "path": "/request-work/",
+    "name": "Request Work",
+    "index": true
+  },
+  {
+    "path": "/request-work/received/",
+    "name": "Request Received",
+    "index": false
+  },
+  {
+    "path": "/privacy/",
+    "name": "Privacy",
+    "index": true
+  }
+]

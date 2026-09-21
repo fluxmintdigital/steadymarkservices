@@ -1,0 +1,13 @@
+{
+  "serviceGeography": "UNRESOLVED",
+  "insuranceStatement": "UNRESOLVED",
+  "legalEntity": "UNRESOLVED",
+  "regulatedTradeBoundaries": "UNRESOLVED",
+  "estimatePolicy": "UNRESOLVED",
+  "businessHours": "UNRESOLVED",
+  "attachmentSizeLimit": "UNRESOLVED",
+  "attachmentAllowedTypes": "UNRESOLVED",
+  "requestStorageProvider": "UNRESOLVED",
+  "requestNotificationProvider": "UNRESOLVED",
+  "publicResponseExpectation": "UNRESOLVED"
+}

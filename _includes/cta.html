@@ -1,0 +1,6 @@
+<section class="cta-band">
+  <div class="wrap cta-inner">
+    <div><span class="eyebrow">Next step</span><h2>{{ include.heading | default: 'Tell us what the property needs.' }}</h2><p>{{ include.copy | default: 'Share the condition, property context, and timing that matter. We will review the scope and clarify fit.' }}</p></div>
+    <a class="button button-light" href="{{ '/request-work/' | relative_url }}{% if include.context %}?context={{ include.context }}{% endif %}">Request Work <span aria-hidden="true">↗</span></a>
+  </div>
+</section>

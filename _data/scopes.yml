@@ -1,0 +1,30 @@
+- id: vacant-unit-turn
+  name: Vacant Unit Turn
+  service: make-readies-turns
+  condition: A vacant unit needs several ordinary corrections before it is ready for its next use.
+  typical_scope: Coordinate visible finish, door, cabinet, fixture, flooring-transition, and other defined items into one property-level scope.
+  next_step: Share the property context and what needs attention.
+- id: rental-maintenance-visit
+  name: Rental Maintenance Visit
+  service: maintenance-property-support
+  condition: A property needs a practical visit for routine maintenance or smaller corrections.
+  typical_scope: Review the property need, clarify the visit, and organize the work that fits the condition and access.
+  next_step: Describe the issue and the property context.
+- id: multi-item-punch-scope
+  name: Multi-Item Punch Scope
+  service: repairs-punch-work
+  condition: Several unrelated property issues need to become one understandable request.
+  typical_scope: Group the items, confirm what is in scope, and coordinate the defined corrections.
+  next_step: List the items in ordinary language, with photos if useful.
+- id: single-residential-repair
+  name: Single Residential Repair
+  service: repairs-punch-work
+  condition: One defined residential repair needs a clear next step.
+  typical_scope: Understand the condition, check fit, and clarify what is needed to move forward.
+  next_step: Tell us what is happening and where.
+- id: recurring-multi-property-support
+  name: Recurring Multi-Property Support
+  service: recurring-contract-support
+  condition: Repeated needs across one or more properties would benefit from continuity.
+  typical_scope: Start with the pattern of work, property context, and the kind of support that keeps recurring needs organized.
+  next_step: Share the portfolio context and recurring need.

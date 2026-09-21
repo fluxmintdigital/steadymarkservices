@@ -1,0 +1,10 @@
+status: PLANNED_NOT_IMPLEMENTED
+endpoint_origin: UNRESOLVED
+storage_provider: UNRESOLVED
+notification_provider: UNRESOLVED
+private_attachment_storage: UNRESOLVED
+retention_policy: UNRESOLVED
+rate_limit_policy: UNRESOLVED
+csrf_origin_policy: UNRESOLVED
+idempotency_store: UNRESOLVED
+public_fallback: email

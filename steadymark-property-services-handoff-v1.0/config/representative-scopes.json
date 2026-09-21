@@ -1,0 +1,35 @@
+[
+  {
+    "id": "vacant-unit-turn",
+    "canonicalId": "RS-01",
+    "name": "Vacant Unit Turn",
+    "primaryServiceLine": "make-readies-turns"
+  },
+  {
+    "id": "rental-maintenance-visit",
+    "canonicalId": "RS-02",
+    "name": "Rental Maintenance Visit",
+    "primaryServiceLine": "maintenance-property-support"
+  },
+  {
+    "id": "multi-item-punch-scope",
+    "canonicalId": "RS-03",
+    "name": "Multi-Item Punch Scope",
+    "primaryServiceLine": "repairs-punch-work"
+  },
+  {
+    "id": "single-residential-repair",
+    "canonicalId": "RS-04",
+    "name": "Single Residential Repair",
+    "primaryServiceLine": "repairs-punch-work",
+    "secondaryServiceLines": [
+      "maintenance-property-support"
+    ]
+  },
+  {
+    "id": "recurring-multi-property-support",
+    "canonicalId": "RS-05",
+    "name": "Recurring Multi-Property Support",
+    "primaryServiceLine": "recurring-contract-support"
+  }
+]
