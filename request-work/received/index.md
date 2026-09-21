@@ -5,4 +5,4 @@ permalink: /request-work/received/
 noindex: true
 sitemap: false
 ---
-<section class="page-hero"><div class="wrap narrow"><span class="eyebrow">Request received</span><h1>Your request is ready to send.</h1><p class="lede">If your email client opened, send the prepared message to SteadyMark. If it did not, contact SteadyMark directly.</p><div class="button-row"><a class="button" href="mailto:{{ site.data.business.email }}">Email SteadyMark <span aria-hidden="true">↗</span></a><a class="text-link" href="tel:{{ site.data.business.phone_tel }}">{{ site.data.business.phone_display }}</a></div></div></section>
+<section class="page-hero"><div class="wrap narrow"><span class="eyebrow">Request Work</span><h1>Choose the clearest next step.</h1><p class="lede">Call SteadyMark for the most direct conversation about the property need, or use email if that is more convenient.</p><div class="button-row"><a class="button" href="tel:{{ site.data.business.phone_tel }}">Call SteadyMark — {{ site.data.business.phone_display }}</a><a class="text-link" href="mailto:{{ site.data.business.email }}">Email SteadyMark <span aria-hidden="true">↗</span></a></div></div></section>
